@@ -13,7 +13,7 @@ Soy un desarrollador frontend junior con experiencia en React, Tailwind CSS y Ja
 
 ## Formación académica
 * 🎓 Técnico en Tecnologías de la Información - Universidad Tecnológica de Cancún (2023-2025)
-* 🎓 Técnico en Administración de Empresa - Bachilleres Cancún 2 (2021-2023)
+* 🎓 Técnico en Administración de Empresa - Colegio De Bachilleres Cancún 2 (2021-2023)
 
 ## Certificaciones y cursos
 * 📜 CCNA: Switching, Routing, and Wireless Essentials
