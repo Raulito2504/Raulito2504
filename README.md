@@ -49,7 +49,6 @@ Busco un equipo donde pueda seguir perfeccionando mis habilidades y aportar solu
 
 ## Contacto
 * 📧 Email: raulariasrafael@gmail.com
-* 📱 Teléfono: +52 9984239927
 * 🐙 GitHub: [@Raulito2504](https://github.com/Raulito2504)
 * 📍 Ubicación: Cancún, México
 
